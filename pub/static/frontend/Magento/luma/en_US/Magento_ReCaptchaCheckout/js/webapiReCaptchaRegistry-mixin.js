@@ -1,0 +1,1 @@
+/home/eriazu/sites/magento/vendor/magento/module-re-captcha-checkout/view/frontend/web/js/webapiReCaptchaRegistry-mixin.js

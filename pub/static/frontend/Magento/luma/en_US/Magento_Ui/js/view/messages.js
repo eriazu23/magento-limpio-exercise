@@ -1,0 +1,1 @@
+/home/eriazu/sites/magento/vendor/magento/module-ui/view/frontend/web/js/view/messages.js

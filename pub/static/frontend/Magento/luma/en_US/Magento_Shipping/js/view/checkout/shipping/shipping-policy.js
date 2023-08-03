@@ -1,0 +1,1 @@
+/home/eriazu/sites/magento/vendor/magento/module-shipping/view/frontend/web/js/view/checkout/shipping/shipping-policy.js

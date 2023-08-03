@@ -1,0 +1,1 @@
+/home/eriazu/sites/magento/app/code/Openpay/Stores/view/frontend/web/js/view/payment/offline-payments.js

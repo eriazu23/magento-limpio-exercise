@@ -1,0 +1,1 @@
+/home/eriazu/sites/magento/app/code/Openpay/Cards/view/frontend/web/js/view/payment/method-renderer/cc-form.js

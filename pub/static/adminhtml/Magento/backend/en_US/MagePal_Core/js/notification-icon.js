@@ -1,0 +1,1 @@
+/home/eriazu/sites/magento/vendor/magepal/magento2-core/view/adminhtml/web/js/notification-icon.js
